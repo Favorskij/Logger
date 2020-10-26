@@ -1,0 +1,5 @@
+2020-10-26 13:52:35 TRACE MyLogger:11 - trace == trace
+2020-10-26 13:52:35 DEBUG MyLogger:12 - debug == debug
+2020-10-26 13:52:35 INFO  MyLogger:13 - info == info
+2020-10-26 13:52:35 WARN  MyLogger:14 - warn == warn
+2020-10-26 13:52:35 ERROR MyLogger:15 - error == error
